@@ -1,0 +1,15 @@
+body{
+	font-family: "Arial";
+	text-align: justify;
+	text-justify: inter-word;
+}
+h1{
+	font-family: "Times New Roman";
+	size: 28px;
+	color: #38761d;
+}
+h2{
+	font-family: "Times New Roman";
+	size: 24px;
+	color: #38761d;
+}

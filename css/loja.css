@@ -1,0 +1,11 @@
+body {
+	margin-top: 150px;
+	
+	background-image: url(../imagens/videira.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+img{
+	margin: 90px auto;
+}
